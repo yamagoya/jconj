@@ -5,10 +5,13 @@ This program demonstrates a table-based, data-driven approach to
 conjugating Japanese predicates (including verbs and adjectives).
 
 This is an example program demonstrating how the JMdictDB word
-conjugation tables can be used, idependently of the rest of the
-JMdictDB API, to conjugate Japanese words.
+conjugation tables can be used, independently of the rest of the
+JMdictDB API, to conjugate Japanese words.  JMdictDB [*1] is a
+project to put the contents of Jim Breen's [*2] JMdict Japanese-
+English dictionary data [*3] into a database, and provide a 
+web-based maintenance system for it.
 
-It will print a table of conjugations for the word given
+conj.py will print a table of conjugations for the word given
 on the command line.  You are required to supply the word's
 part-of-speech code as used in wwwjdic, JMdict, et.al, since
 this program in independent of JMdictDB and has no other way
@@ -115,3 +118,10 @@ operations as this program using the .csv data read into
 database tables.  Those views (primarily "vinfl" around
 line 670) provide the conjugated words for the web/cgi/conj.py
 JMdictDB web page.
+
+======================================================================
+Notes:
+[*1] http://edrdg.org/~smg/
+     https://gitlab.com/yamagoya/jmdictdb/
+[*2] http://nihongo.monash.edu/Japanese.html
+[*3] http://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
