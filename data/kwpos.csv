@@ -10,9 +10,9 @@
 10	aux-adj	auxiliary adjective
 11	aux-v	auxiliary verb
 12	conj	conjunction
-13	exp	Expressions (phrases, clauses, etc.)
+13	exp	expressions (phrases, clauses, etc.)
 14	int	interjection (kandoushi)
-15	cop-da	copula
+15	cop	copula
 17	n	noun (common) (futsuumeishi)
 18	n-adv	adverbial noun (fukushitekimeishi)
 19	n-suf	noun, used as a suffix
@@ -42,7 +42,7 @@
 45	vk	Kuru verb - special class
 46	vs	noun or participle which takes the aux. verb suru
 47	vs-s	suru verb - special class
-48	vs-i	suru verb - irregular
+48	vs-i	suru verb - included
 49	vz	Ichidan verb - zuru verb (alternative form of -jiru verbs)
 50	vt	transitive verb
 51	ctr	counter

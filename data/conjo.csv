@@ -67,7 +67,7 @@ pos	conj	neg	fml	onum	stem	okuri	euphr	euphk	pos2
 28	1	f	f	1	1	る			
 28	1	f	t	1	1	ます			
 28	1	t	f	1	1	ない			
-28	1	t	t	1	1	ました			
+28	1	t	t	1	1	ません			
 28	2	f	f	1	1	た			
 28	2	f	t	1	1	ました			
 28	2	t	f	1	1	なかった			
@@ -127,7 +127,7 @@ pos	conj	neg	fml	onum	stem	okuri	euphr	euphk	pos2
 29	1	f	f	1	1	る			
 29	1	f	t	1	1	ます			
 29	1	t	f	1	1	ない			
-29	1	t	t	1	1	ました			
+29	1	t	t	1	1	ません			
 29	2	f	f	1	1	た			
 29	2	f	t	1	1	ました			
 29	2	t	f	1	1	なかった			
